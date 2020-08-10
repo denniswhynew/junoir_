@@ -1,0 +1,24 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\p1\123_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\p1\123_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\p1\123_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\p1\123_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\p1\123_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\p1\123_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\p1\123_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\p1\123_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\p1\123_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\p1\123_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.073 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: F:\p1\123_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported

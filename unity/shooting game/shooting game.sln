@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shooting game.CSharp.Plugins", "shooting game.CSharp.Plugins.csproj", "{E08BBC39-0FF4-23C1-AD4D-C73814682940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shooting game.CSharp", "shooting game.CSharp.csproj", "{C307652D-4CA8-71DE-39D7-990DFCBCF7B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shooting game.CSharp.Editor", "shooting game.CSharp.Editor.csproj", "{B0F96761-C8FA-3BBE-4011-0BFE610C43C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E08BBC39-0FF4-23C1-AD4D-C73814682940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08BBC39-0FF4-23C1-AD4D-C73814682940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08BBC39-0FF4-23C1-AD4D-C73814682940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08BBC39-0FF4-23C1-AD4D-C73814682940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C307652D-4CA8-71DE-39D7-990DFCBCF7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C307652D-4CA8-71DE-39D7-990DFCBCF7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C307652D-4CA8-71DE-39D7-990DFCBCF7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C307652D-4CA8-71DE-39D7-990DFCBCF7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F96761-C8FA-3BBE-4011-0BFE610C43C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F96761-C8FA-3BBE-4011-0BFE610C43C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F96761-C8FA-3BBE-4011-0BFE610C43C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F96761-C8FA-3BBE-4011-0BFE610C43C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

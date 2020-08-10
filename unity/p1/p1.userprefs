@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\pr1\Assets\sss\justtest.cs">
+    <Files>
+      <File FileName="..\pr1\Assets\sss\forout.cs" Line="6" Column="22" />
+      <File FileName="..\pr1\Assets\sss\eeee.cs" Line="13" Column="5" />
+      <File FileName="..\pr1\Assets\sss\justtest.cs" Line="27" Column="5" />
+      <File FileName="..\pr1\Assets\sss\enimy.cs" Line="45" Column="43" />
+      <File FileName="..\pr1\Assets\sss\playercontrol.cs" Line="19" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
